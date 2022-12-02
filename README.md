@@ -1,2 +1,3 @@
 # springcloud-OU-
 微服务之order与user系统
+使用springcloud中的eureka和ribbon和zuul三大组件来完成，是eureka来负载均衡，ribbon实现内部调用，zuul网关。
