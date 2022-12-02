@@ -1,3 +1,4 @@
 # springcloud-OU-
 微服务之order与user系统
-使用springcloud中的eureka和ribbon和zuul三大组件来完成，是eureka来负载均衡，ribbon实现内部调用，zuul网关。
+使用Springcloud，其中三大组件：eureka，ribbo和zuul；其中eureka是服务治理，ribbon负载均衡，zuul指网关。Ribbon中的RestTemplate对象可以在实现微服务的内部调用。
+Nginx和ribbon的区别：nginx是集中式负载均衡，作用于服务器；而ribbon是客户端负载均衡。使用nginx来在服务端实现负载均衡。
