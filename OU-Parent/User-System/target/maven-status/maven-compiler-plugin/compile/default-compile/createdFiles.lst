@@ -1,0 +1,6 @@
+cn\scnj\controller\UserController.class
+cn\scnj\domain\User.class
+cn\scnj\StartUser.class
+cn\scnj\service\UserService.class
+cn\scnj\service\UserServiceImpl.class
+cn\scnj\mapper\UserMapper.class
